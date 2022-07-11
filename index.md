@@ -18,7 +18,7 @@ MarkdownEdit, as the name suggests, is a simple and easy program for creating an
 - Auto-complete (close brackets, list, ...)
 - Export to HTML and PDF
 - Quick opening of recent files (Button in toolbar or in the file menu)
-- Remember spelling language for every document
+- Reminds spelling language for each document
 
 ![Example](https://github.com/software-made-easy/MarkdownEdit/raw/main/doc/images/Example.png)
 
