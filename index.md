@@ -4,6 +4,7 @@
 
 - [MarkdownEdit](#markdownedit)
 - [Converter](#converter)
+- [MimeDetector](#mimedetector)
 
 ## [MarkdownEdit](https://software-made-easy.github.io/MarkdownEdit/)
 
@@ -55,3 +56,19 @@ Converter is a simple app for converting strings.
 
 ### More info [here](https://software-made-easy.github.io/Converter/)
 
+## [MimeDetector](https://software-made-easy.github.io/MimeDetector/)
+
+As the name suggests, MimeDetector is a simple program for recognizing the MIME type of files
+
+### Feature(s)
+
+- Detect MIME type of files
+- Proviede details about MIME types
+
+### [Preview](https://software-made-easy.github.io/MimeDetector/mimedetector.html)
+
+Important:
+- The detection does not work as well as when installed
+- Search does not work
+
+### More info [here](https://software-made-easy.github.io/MimeDetector/)
