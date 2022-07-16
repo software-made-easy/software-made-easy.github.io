@@ -28,7 +28,9 @@ Notes:
 - Performance might be bad
 - Some features like spell check are not available
 
-### More info [here](https://software-made-easy.github.io/MarkdownEdit/)
+### Wanna learn more?
+
+More info [here](https://software-made-easy.github.io/MarkdownEdit/)
 
 
 ## [Converter](https://software-made-easy.github.io/Converter/)
@@ -54,7 +56,11 @@ Converter is a simple app for converting strings.
 
 ### [Preview](https://software-made-easy.github.io/Converter/converter.html)
 
-### More info [here](https://software-made-easy.github.io/Converter/)
+A preview is available [here](https://software-made-easy.github.io/Converter/converter.html)
+
+### Wanna learn more?
+
+More info about Converter [here](https://software-made-easy.github.io/Converter/)
 
 ## [MimeDetector](https://software-made-easy.github.io/MimeDetector/)
 
@@ -63,12 +69,17 @@ As the name suggests, MimeDetector is a simple program for recognizing the MIME 
 ### Feature(s)
 
 - Detect MIME type of files
-- Proviede details about MIME types
+- Provide details about MIME types
+
+![Example](https://github.com/software-made-easy/MimeDetector/raw/main/docs/images/Example.png)
 
 ### [Preview](https://software-made-easy.github.io/MimeDetector/mimedetector.html)
 
+A preview is available [here](https://software-made-easy.github.io/MimeDetector/mimedetector.html)
+
 Important:
-- The detection does not work as well as when installed
 - Search does not work
 
-### More info [here](https://software-made-easy.github.io/MimeDetector/)
+### Wanna learn more?
+
+More info about MimeDetector [here](https://software-made-easy.github.io/MimeDetector/)
