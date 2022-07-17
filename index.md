@@ -23,14 +23,14 @@ MarkdownEdit, as the name suggests, is a simple and easy program for creating an
 
 ![Example](https://github.com/software-made-easy/MarkdownEdit/raw/main/doc/images/Example.png)
 
-### [Preview](https://software-made-easy.github.io/MarkdownEdit/markdownedit.html)
+### Preview
 Notes:
 - Performance might be bad
 - Some features like spell check are not available
 
 ### Wanna learn more?
 
-More info [here](https://software-made-easy.github.io/MarkdownEdit/)
+More info about MarkdownEdit [here](https://software-made-easy.github.io/MarkdownEdit/)
 
 
 ## [Converter](https://software-made-easy.github.io/Converter/)
@@ -54,7 +54,7 @@ Converter is a simple app for converting strings.
 | **HTML**     	|               Markdown<br>Plain               	|
 | **C string** 		|                     Plain                     	|
 
-### [Preview](https://software-made-easy.github.io/Converter/converter.html)
+### Preview
 
 A preview is available [here](https://software-made-easy.github.io/Converter/converter.html)
 
@@ -73,7 +73,7 @@ As the name suggests, MimeDetector is a simple program for recognizing the MIME 
 
 ![Example](https://github.com/software-made-easy/MimeDetector/raw/main/docs/images/Example.png)
 
-### [Preview](https://software-made-easy.github.io/MimeDetector/mimedetector.html)
+### Preview
 
 A preview is available [here](https://software-made-easy.github.io/MimeDetector/mimedetector.html)
 
